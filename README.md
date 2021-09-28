@@ -5,5 +5,5 @@ EL objetivo de proyecto es a traves de R y Shiny visualizar los 5 vecinos mas ce
 
 
 ## Recursos:
-https://daattali.com/shiny/shinyjs-demo/
+https://daattali.com/shiny/shinyjs-demo/  
 https://deanattali.com/blog/advanced-shiny-tips/
